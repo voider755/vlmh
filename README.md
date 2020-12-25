@@ -1,6 +1,3 @@
-##############README##############
-
-
 #              vlmh
 
 #  (VOID LINUX MAINTENANCE HELPER)
