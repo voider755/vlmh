@@ -1,19 +1,18 @@
 ##############README##############
 
-#********************************#
 
-#              vlmh              #
+#              vlmh
 
-#  VOID LINUX MAINTENANCE HELPER #
+#  (VOID LINUX MAINTENANCE HELPER)
 
-#********************************#
+
 
 
  vlmh (Void Linux Maintenance Helper) is (c) Voider 2020
 
  Contact me: voider (at) disroot.org or as "invoider" at mastodon dot social
 
- Code published at https://invoider.wordpress.com/2020/12/25/vlmh-void-linux-maintenance-helper/ . You may find a tarball with this README, an archive with the actual code, and a copy of the license there.
+ Code first published at https://invoider.wordpress.com/2020/12/25/vlmh-void-linux-maintenance-helper/ . Now hosted at https://github.com/voider755/vlmh
 
  License: FreeBSD(-like) License. Use at your own risk
 
