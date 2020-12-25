@@ -1,12 +1,12 @@
 ##############README##############
 
-**********************************
+#********************************#
 
-**             vlmh             **
+#              vlmh              #
 
-** VOID LINUX MAINTENANCE HELPER *
+#  VOID LINUX MAINTENANCE HELPER #
 
-**********************************
+#********************************#
 
 
  vlmh (Void Linux Maintenance Helper) is (c) Voider 2020
