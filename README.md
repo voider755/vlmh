@@ -5,13 +5,13 @@
 
 ![alt text](https://github.com/voider755/vlmh/blob/main/vlmh-12-26crop.jpg?raw=true)
 
- Gives you a CLI menu with some common maintenance options inside a *stock* Void Linux system
+ Gives you a CLI menu with some common maintenance options inside a Void Linux system
 
 This program may help you with doing some common system maintenance. It's pretty straightforward, just type the number of your option and whatever is (if it's) prompted, and let it do its thing. As of this version, it uses ```xbps``` and ```vkpurge```, so it will be useful only inside a Void Linux system (and I guess in some Void Linux derivative[s]).
 
-INSTALLATION: Download or ```git clone``` this repository. Move the ```almh.py``` archive to a directory inside your ```$PATH``` and it will be executable typing ```almh.py``` inside your terminal emulator of choice, or from a logged in TTY. If it's outside of ```$PATH```, just open your terminal emulator, navigate to the directory where the archive is contained, and type:
+INSTALLATION: Only thing apart from ```base-system``` you'll need installed is ```python3```. Download or ```git clone``` this repository. Move the full directory or (at least) the ```vlmh.py``` archive to a location of your preference if necessary, and run it with:
 
-```$ python3 vlmh.py```
+```$ python vlmh.py```
 
 There's no need to make the archive executable, the Python interpreter should run it as it is.
 You can of course add an ```alias``` to your ```$SHELL```. Say you use ```bash```, then in ```.bashrc```:
